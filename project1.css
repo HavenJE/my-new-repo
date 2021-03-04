@@ -1,0 +1,21 @@
+html {
+    background-color: #f1faee; 
+    
+}
+
+body { 
+    padding: 200px 100px; 
+    margin: 20px  
+}
+
+#wrapper .img {background: center;
+}
+
+
+#left_header h1, h2 {
+    text-align: left; line-height: 1.5
+}
+
+#right_header p {
+    text-align: right
+}
